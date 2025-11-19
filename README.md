@@ -1,42 +1,46 @@
-**Sales Overview Dashboard — Power BI**
+**📊 Sales Overview Dashboard — Power BI**
 
-This dashboard delivers a comprehensive overview of business sales performance, highlighting key KPIs, regional insights, product-wise contribution, and sales team impact.
-Designed for executive-level decision-making, it combines a clean visual layout with powerful interactivity and drill-down analysis.
+This repository contains a complete **Sales Overview Dashboard** built in **Power BI**, along with the cleaned **Excel dataset** used in the report. The dashboard provides executive-level insights into sales performance, regional trends, profit margins, customer segmentation, and product-level contribution. It features a clean design, dynamic slicers, and interactive visuals for deeper analysis.
 
-**🔑 Key Highlights**
+**🔑 Key Features**
 
--> Sales & Profit KPIs powered by advanced DAX measures
+-> Sales & Profit KPIs created using advanced DAX measures
+-> Analytics by customer, country, product, and sales manager
+-> Quarterly trend and customer type segmentation
+-> Fully interactive visuals with slicers, cross-filtering, and drill-down
+-> Executive-friendly, structured layout for fast decision-making
 
--> Customer, country, product, and sales manager–wise analytics
+**📊 Dashboard Snapshot**
 
--> Quarterly sales trend analysis and customer-type segmentation
+https://github.com/Nidhij81/Sales-Overview-Dashboard/blob/main/Sales%20Overview%20Dashboard%20.png
 
--> Fully interactive report with dynamic slicers and responsive visuals
+**Complete PowerBI Dashboard**
 
-**💡 Learnings & Improvements**
+https://github.com/Nidhij81/Sales-Overview-Dashboard/blob/main/Sales%20Dashboard%20Report.pbix 
 
--> Developed advanced DAX measures for KPI cards and dynamic aggregations
+**Cleaned Excel File**
 
--> Created a more structured, executive-friendly layout with intuitive navigation
+**🧠 Learnings & Improvements**
 
--> Enhanced interactivity and data usability using layered filters and linked visuals
+-> Created custom DAX measures for accurate KPIs and dynamic aggregations
+-> Improved dashboard layout to enhance readability and user flow
+-> Enhanced interactivity using layered filters and linked visuals
+-> Cleaned and transformed dataset manually to improve accuracy and usability
 
--> Refined color themes and improved dashboard readability
-
-📸 Dashboard Snapshot
-
-![Sales Overview Dashboard](sales_dashboard.png)
-
-**🎥 Demo Video**
-
-You can attach your short video demo by uploading it to the repository (or linking a YouTube/Drive video). After uploading, add:
-
-📹 **Watch the interactive demo:**  
-
-
-**🧰 Tools & Technologies**
+**🧰 Tools & Technologies Used**
 
 -> Power BI Desktop
+-> Excel (cleaned dataset)
+-> Power Query (data shaping & transformations)
 -> DAX (Data Analysis Expressions)
--> Excel / CSV Source Data
--> Data Modeling & ETL inside Power BI
+-> Data Modeling in Power BI
+
+**🎯 Purpose of the Dashboard**
+
+This dashboard helps users:
+
+-> Monitor overall sales performance
+-> Understand regional and product-level trends
+-> Analyze customer segments
+-> Evaluate sales manager impact
+-> Track quarterly growth and profitability patterns

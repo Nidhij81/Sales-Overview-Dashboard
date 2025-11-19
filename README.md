@@ -20,6 +20,8 @@ https://github.com/Nidhij81/Sales-Overview-Dashboard/blob/main/Sales%20Dashboard
 
 **Cleaned Excel File**
 
+https://github.com/Nidhij81/Sales-Overview-Dashboard/blob/main/Data%20-%20Participants.xlsx
+
 **🧠 Learnings & Improvements**
 
 -> Created custom DAX measures for accurate KPIs and dynamic aggregations
